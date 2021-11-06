@@ -2,8 +2,6 @@
 
 ![](../.gitbook/assets/medooza-ecosystem.jpg)
 
-*
-
 #### Medooza platform, apps & Dapps
 
 * [Medooza Wallet](../guides/medooza-wallet-guide/)
