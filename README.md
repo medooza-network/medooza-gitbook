@@ -15,25 +15,17 @@ coverY: 0
 ### “The Medooza Project Enable The Blockchain Mass adoption possible”.
 {% endhint %}
 
-On the Medooza Social platform users will earn MDZA tokens for engagement on the network, while advertisers have the abbility to allocate the advertising budget in a smarter, afficient way that ensure the their goals!
+**On the Medooza Social platform users will earn MDZA tokens for engagement on the network, while advertisers have the abbility to allocate the advertising budget in a smarter, afficient way that ensure the their goals!**
 
 {% embed url="https://www.youtube.com/watch?v=ky90MlIqHH4" %}
 
-#### **Revolutionary social & reward platform.** **If you’re dreaming about getting paid for using apps like Instagram, Facebook, TikTok Etc., then join the Medooza project.**
+#### **The Medooza ecosystem components and apps will intagrate with the **Non custodial** Medooza wallet. **
 
-**Also, The Medooza ecosystem include:**
-
-Medooza universal Non-Custodial Wallet Platform.
-
-Medooza News portal.
-
-Medooza Shortly wallet address platform.
-
-Integrated Exchange & Blockchain tools.
+****
 
 
 
-![](https://medooza.io/wp-content/uploads/2018/08/logo-full-purple-300x143.png)\
+\
 **Medooza social & reward Platform**
 
 The Medooza social platform is going to be pioneer of the Blockchain mass adoption stage – **If you’re dreaming about getting paid for using apps like Instagram, Facebook, TikTok Etc., then join the Medooza project.**
