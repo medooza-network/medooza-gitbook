@@ -2,6 +2,7 @@
 
 * [What is Medooza Ecosystem?](README.md)
   * [Medooza Ecosystem Apps & Dapps](what-is-medooza-ecosystem/medooza-ecosystem-apps-and-dapps.md)
+  * [Medooza Smart contracts](what-is-medooza-ecosystem/medooza-smart-contracts.md)
 * [Where to buy](where-to-buy.md)
 
 ## Guides
