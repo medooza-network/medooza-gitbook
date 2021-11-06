@@ -1,8 +1,7 @@
 # Table of contents
 
 * [What is Medooza Ecosystem?](README.md)
-  * [Where to buy](what-is-medooza-ecosystem/where-to-buy.md)
-  * [Medooza Smart contracts](what-is-medooza-ecosystem/medooza-smart-contracts.md)
+  * [Medooza Ecosystem Apps & Dapps](what-is-medooza-ecosystem/medooza-ecosystem-apps-and-dapps.md)
 
 ## Guides
 
