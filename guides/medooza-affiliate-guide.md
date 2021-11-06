@@ -1,0 +1,2 @@
+# Medooza affiliate guide
+

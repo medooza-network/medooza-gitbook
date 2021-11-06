@@ -14,6 +14,7 @@
 * [Medooza Faucet](guides/medooza-faucet.md)
 * [Medooza Stake program](guides/medooza-stake-program.md)
 * [MDZA on Xdai blockchain](guides/mdza-on-xdai-blockchain.md)
+* [Medooza affiliate guide](guides/medooza-affiliate-guide.md)
 * [Medooza Social platform](guides/medooza-social-platform.md)
 
 ## Fundamentals
@@ -49,3 +50,5 @@
 * [HOW TO TRADE MEDOOZA (MDZA)](how-to-trade-medooza-mdza.md)
 
 ## Group 1
+
+## Group 2
