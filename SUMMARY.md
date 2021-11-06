@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is Medooza Ecosystem?](README.md)
-  * [Page 1](what-is-medooza-ecosystem/page-1.md)
+  * [Medooza Ecosystem Apps & Dapps](what-is-medooza-ecosystem/medooza-ecosystem-apps-and-dapps.md)
 
 ## Guides
 
