@@ -36,7 +36,8 @@
 
 ***
 
-* [FOR DEVELOPERS](for-developers.md)
+* [FOR DEVELOPERS](for-developers/README.md)
+  * [Medooza Wallet for crypto projects.](for-developers/medooza-wallet-for-crypto-projects..md)
 
 ## Extras
 
