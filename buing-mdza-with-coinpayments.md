@@ -1,0 +1,2 @@
+# buing MDZA with CoinPayments
+
