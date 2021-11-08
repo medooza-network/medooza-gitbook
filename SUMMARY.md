@@ -3,6 +3,7 @@
 * [What is Medooza Ecosystem?](README.md)
   * [Medooza Ecosystem Apps & Dapps](what-is-medooza-ecosystem/medooza-ecosystem-apps-and-dapps.md)
   * [Medooza Smart contracts](what-is-medooza-ecosystem/medooza-smart-contracts.md)
+* [MDZA use cases](mdza-use-cases.md)
 
 ## Guides
 
@@ -13,7 +14,6 @@
 * [Buying MDZA tokens guides](guides/buying-mdza-tokens-guides/README.md)
   * [Where to buy MDZA tokens?](where-to-buy.md)
   * [buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)
-* [MDZA use cases](guides/mdza-use-cases.md)
 * [Medooza Faucet](guides/medooza-faucet.md)
 * [Medooza Stake program](guides/medooza-stake-program.md)
 * [MDZA on Xdai blockchain](guides/mdza-on-xdai-blockchain.md)
