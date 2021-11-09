@@ -4,11 +4,19 @@ description: Learn about the MDZA token usecases
 
 # MDZA use cases
 
-## The MDZA token is the first and only token that empower and connect both social and blockchain worlds.
+## The MDZA token is the first (and only) token that empower and connect both social and blockchain worlds.
 
-On the Medooza social platform: Advertisers, Publishers and users will have the ability to earn, buy & spend MDZA Tokens on the Medooza Social platform.
+#### How it works?
 
-**The advertising marketplace**
+**Advertisers & Publishers:**
+
+On the Medooza social platform Advertisers & Publishers will have the ability to manage their budget in a revolutionary way, and reward users with MDZA that they bought on the free market of exchanges base on users engagement! (watch video, share, like and more...).
+
+#### Users:
+
+The Medooza users will have the ability to earn & spend MDZA Tokens on the Medooza Social platform while engaging their favorite brands, idols and interests.
+
+## **It's the perfect WIN-WIN situation!**
 
 **Watch the video to see the revolution!**
 
