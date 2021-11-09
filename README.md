@@ -15,18 +15,9 @@ coverY: 0
 ### “The Medooza Project Enable The Blockchain Mass adoption possible”.
 {% endhint %}
 
-**On the Medooza Social platform users will earn MDZA tokens for engagement on the network, while advertisers have the abbility to allocate the advertising budget in a smarter, afficient way that ensure the their goals!**
+**On the Medooza Social platform users will earn MDZA tokens for engagement on the network, while advertisers have the abbility to allocate their advertising budget in a smarter, afficient way that ensure reaching the advertising goals!**
 
 {% embed url="https://www.youtube.com/watch?v=ky90MlIqHH4" %}
-
-#### **The Medooza ecosystem components and apps will intagrate with the **Non custodial** Medooza wallet. **
-
-****
-
-
-
-\
-**Medooza social & reward Platform**
 
 The Medooza social platform is going to be pioneer of the Blockchain mass adoption stage – **If you’re dreaming about getting paid for using apps like Instagram, Facebook, TikTok Etc., then join the Medooza project.**
 
@@ -35,32 +26,20 @@ With intuitive & simple user interface we are going to change the way that users
 The Medooza social platform will provide advanced tools, incentives and smart reward system for deeper interaction between friends, publishers, stars, fans, and brands.
 
 * Engage with your friends & family and earn MDZA Tokens.
-* Engage with your favorite idol and earn MDZA Tokens.
-* Daily bonuses for dedicate users.
+* Earn daily bonuses for dedicate users.
 * Publish content and earn MDZA Tokens.
 * Engage with friends, favorite brands, idols and earn MDZA Tokens.\
-  \
   [**Click To Download From Google Play**](https://play.google.com/store/apps/details?id=com.medooza.social\_app)
 
-Medooza law Blockchain platform.Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+#### **The Medooza ecosystem includes several components and apps that intagrate with the **Non custodial** Medooza wallet.**
 
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+## Until now, Medooza project is self funded project and we will appreciate any help and inspiration from the Blockchain community
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+* **If you want to join the team, Click here**
+* **If you want to support the project and buy some MDZA, **[**Click here**](how-to-buy-medooza-mdza.md)****
+* **If you want to earn MDZA tokens, you can do it by joing the Medooza affiliate program. **[**Click here**](guides/medooza-affiliate-guide.md)****
 
-## Getting Started
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+#### ** or support the project, the best way is to buy MDZA tokens, stake them** **Medooza social & reward Platfor**
 
 ### Guides: Jump right in
 
