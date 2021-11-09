@@ -36,7 +36,7 @@ The Medooza social platform will provide advanced tools, incentives and smart re
 ## Until now, Medooza project is self funded project and we will appreciate any help and inspiration from the Blockchain community
 
 * **If you want to join the team, Click here**
-* **If you want to support the project and buy some MDZA, **[**Click here**](how-to-buy-medooza-mdza.md)****
+* **If you want to support the project and buy some MDZA, **[**Click here**](guides/buying-mdza-tokens-guides/)****
 * **If you want to earn MDZA tokens, you can do it by joing the Medooza affiliate program. **[**Click here**](guides/medooza-affiliate-guide.md)****
 
 #### ** or support the project, the best way is to buy MDZA tokens, stake them** **Medooza social & reward Platfor**
