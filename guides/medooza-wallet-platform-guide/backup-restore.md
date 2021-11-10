@@ -20,3 +20,16 @@ After you activated your wallets you need to write/remember the password you cho
 If you want to Restore / Import your wallets, just click on Import button, choose the file you saved and that’s it!
 
 ![](https://medooza.io/wp-content/uploads/2018/11/medooza-wallet-faq-3-1.png)
+
+## Restore
+
+If you want to manage your wallets from any other device (PC or Mobile) follow these steps.
+
+goto [https://wallet.medooza.network](https://wallet.medooza.network) , On the first screen you’ll see this:
+
+![](https://medooza.io/wp-content/uploads/2018/11/medooza-faq-4.png)
+
+Click on the Import button > choose file location and that’s it!
+
+**Simple… Ha?**\
+**That’s the Medooza wallet!**
