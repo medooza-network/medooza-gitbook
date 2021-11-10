@@ -7,10 +7,10 @@
 
 ## Guides
 
-* [Medooza Wallet guide](guides/medooza-wallet-guide/README.md)
-  * [Getting started](guides/medooza-wallet-guide/getting-started.md)
-  * [Backup / Restore](guides/medooza-wallet-guide/backup-restore.md)
-  * [What i need to do in order to protect my funds?](guides/medooza-wallet-guide/what-i-need-to-do-in-order-to-protect-my-funds.md)
+* [Medooza Wallet platform guide](guides/medooza-wallet-platform-guide/README.md)
+  * [Getting started](guides/medooza-wallet-platform-guide/getting-started.md)
+  * [Backup / Restore](guides/medooza-wallet-platform-guide/backup-restore.md)
+  * [What i need to do in order to protect my funds?](guides/medooza-wallet-platform-guide/what-i-need-to-do-in-order-to-protect-my-funds.md)
 * [Buying MDZA tokens guides](guides/buying-mdza-tokens-guides/README.md)
   * [Where to buy MDZA tokens?](where-to-buy.md)
   * [buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)

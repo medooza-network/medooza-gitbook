@@ -45,8 +45,8 @@ The Medooza social platform will provide advanced tools, incentives and smart re
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/medooza-wallet-guide/" %}
-[medooza-wallet-guide](guides/medooza-wallet-guide/)
+{% content-ref url="guides/medooza-wallet-platform-guide/" %}
+[medooza-wallet-platform-guide](guides/medooza-wallet-platform-guide/)
 {% endcontent-ref %}
 
 {% content-ref url="guides/medooza-faucet.md" %}
