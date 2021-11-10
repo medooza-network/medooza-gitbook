@@ -12,7 +12,7 @@
   * [Backup / Restore](guides/medooza-wallet-platform-guide/backup-restore.md)
   * [How to buy Crypto with credit card](guides/medooza-wallet-platform-guide/how-to-buy-crypto-with-credit-card.md)
   * [What i need to do in order to protect my funds?](guides/medooza-wallet-platform-guide/what-i-need-to-do-in-order-to-protect-my-funds.md)
-* [How to pay with medooza wallet?](guides/how-to-pay-with-medooza-wallet.md)
+  * [How to pay with medooza wallet?](guides/medooza-wallet-platform-guide/how-to-pay-with-medooza-wallet.md)
 * [Buying MDZA tokens guides](guides/buying-mdza-tokens-guides/README.md)
   * [Where to buy MDZA tokens?](where-to-buy.md)
   * [buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)
