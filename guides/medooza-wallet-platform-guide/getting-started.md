@@ -1,19 +1,21 @@
 ---
-description: What is Medooza wallet platform?
+description: Creating a new wallet
 ---
 
 # Getting started
 
 
 
-MEDOOZA crypto wallet is a mobile/web Universal crypto wallet allow you manage all your cryptocurrency wallets and Cryptocurrencies assets in one place, offering a friendly and intuitive UI.
+Learn how to create new Medooza wallet - Step by step guide
+
+{% embed url="https://www.youtube.com/watch?v=QhIdYqnj8iA" %}
+
+As you already know, MEDOOZA crypto wallet is a mobile/web Universal crypto wallet allow you manage all your cryptocurrency wallets and Cryptocurrencies assets in one place, offering a friendly and intuitive UI.
 
 **Medooza Wallet Platform is part of the Medooza First Symbiotic Blockchain Ecosystem powered by MDZA token.**\
 You can read all about it and join to the Token Pre-sale here: [https://medooza.io](https://medooza.io)
 
 Watch all the video guides on our** **[**YouTube Channel**](https://www.youtube.com/channel/UCCeAgc7FdqzDj0ihAKheKUg)
-
-{% embed url="https://youtu.be/gYTUqUwtqR0" %}
 
 The Medooza wallet is **BETTER**, **FASTER**, **AND MORE SECURE** then any other wallet in the market. The Medooza team created it using more then 18 years of experience in the online world and cyber security.
 
