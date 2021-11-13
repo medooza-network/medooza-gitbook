@@ -10,7 +10,7 @@ description: Learn about the MDZA token usecases
 
 **Advertisers & Publishers:**
 
-On the Medooza social platform Advertisers & Publishers will have the ability to manage their budget in a revolutionary way, and reward users with MDZA that they bought on the free market of exchanges base on users engagement! (watch video, share, like and more...).
+On the Medooza social platform Advertisers & Publishers will have the ability to manage their advertising budget in a revolutionary way, and reward users with MDZA that they bought on the free market or exchanges base on users engagement! (watch video, share, like and more...).
 
 #### Users:
 
