@@ -34,7 +34,7 @@ You can join the MDZA pool on Honeyswap and swap it to other tokens (Like ETH, X
 
 
 
-### Medooza Faucet FAQ
+## Medooza Faucet FAQ
 
 **Question: I got an error notification**
 
