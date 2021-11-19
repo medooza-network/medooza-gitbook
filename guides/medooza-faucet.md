@@ -24,7 +24,7 @@ Earning daily MDZA tokens for free in four simple steps:
 
 You can join the MDZA pool on Honeyswap and swap it to other tokens (Like ETH, Xdai etc.)
 
-[Click for the guide here](medooza-stake-program.md)
+[Click for the guide here](mdza-pool-on-honeyswap.md)
 
 **When join the MDZA pool you'll earn from any transaction created by the pool members and you entitled to stake your MDZA token  and earn up to 36.55% APY**
 

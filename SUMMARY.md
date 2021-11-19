@@ -18,6 +18,7 @@
   * [Buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)
   * [Buying MDZA on Tokpie exchange](guides/buying-mdza-tokens-guides/buying-mdza-on-tokpie-exchange.md)
 * [Medooza Faucet](guides/medooza-faucet.md)
+* [MDZA pool on HoneySwap](guides/mdza-pool-on-honeyswap.md)
 * [Medooza Stake program](guides/medooza-stake-program.md)
 * [MDZA on Xdai blockchain](guides/mdza-on-xdai-blockchain.md)
 * [Medooza affiliate guide](guides/medooza-affiliate-guide.md)
@@ -59,7 +60,3 @@
 ## Group 2
 
 ## Group 3
-
-***
-
-* [MDZA pool on HoneySwap](mdza-pool-on-honeyswap.md)
