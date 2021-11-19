@@ -4,6 +4,30 @@ description: Tokpie exchange is fast, secure and the fees are very low !
 
 # Buying MDZA on Tokpie exchange
 
+### How to buy MDZA tokens?
+
+Purchase MDZA tokens for ETH, USDT, or WBTC in three simple steps:
+
+1. [Fund](https://tokpie.zendesk.com/hc/en-us/articles/360001325617-4-Fund-your-account) your account with ETH, USDT, or [WBTC](https://tokpie.io/blog/what-is-wrapped-bitcoin-wbtc/). Note that you can [purchase ETH and USDT with a bank card](https://tokpie.io/swap/?crypto=ETH) in a few minutes.
+2. Open [MDZA/ETH](https://tokpie.com/view\_exchange/MDZA-ETH/), [MDZA/USDT](https://tokpie.com/view\_exchange/MDZA-usdt/), or [MDZA/WBTC](https://tokpie.com/view\_exchange/MDZA-wbtc/) order book, and place your trade order to **buy**.\
+   Use this [instruction](https://tokpie.zendesk.com/hc/en-us/articles/360001325637-5-Buy-or-sell-cryptocurrencies-) if you don’t know how to place a trade order.
+3. [Withdraw MDZA](https://tokpie.io/blog/what-is-medooza-mdza-token/#How\_to\_withdraw\_MDZA\_tokens)_ _tokens to your personal Ethereum wallet or hold them on the account.
+
+### How to sell MDZA tokens?
+
+To sell MDZA tokens for ETH, USDT, or WBTC, follow three steps:
+
+1. [Deposit MDZA](https://tokpie.io/blog/what-is-medooza-mdza-token/#How\_to\_deposit\_MDZA\_tokens) tokens on your account.
+2. Open [MDZA/ETH](https://tokpie.com/view\_exchange/MDZA-ETH/), [MDZA/USDT](https://tokpie.com/view\_exchange/MDZA-usdt/), or [MDZA/WBTC](https://tokpie.com/view\_exchange/MDZA-wbtc/) order book, and place your trade order to **sell**.\
+   Read the [instruction](https://tokpie.zendesk.com/hc/en-us/articles/360001325637-5-Buy-or-sell-cryptocurrencies-) if you don’t know how to place a trade order.
+3. [Withdraw ETH, USDT, or WBTC](https://tokpie.zendesk.com/hc/en-us/articles/360004531817-How-to-withdraw-cryptocurrencies-from-your-Tokpie-account-) to your personal Ethereum wallet or hold them on your account.
+
+### How to deposit MDZA tokens?
+
+To deposit MDZA tokens on your Tokpie account follow this [guide](https://tokpie.zendesk.com/hc/en-us/articles/360001325617-4-Fund-your-account). Make sure that you are going to deposit MDZA tokens that relate to the smart contract address: 0x0ecdd783dc7bf820614044b51862ed29714d2ba5. If you deposit the wrong tokens, your transfer will not be identified by the Tokpie exchange.
+
+### Tokpie beginners guide
+
 Creating a Tokpie account is the first step towards accessing the services that Tokpie offers.&#x20;
 
 **1.** Go to the official Tokpie site on [**https://tokpie.com/regis/**](https://tokpie.com/regis/)
