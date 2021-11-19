@@ -15,7 +15,7 @@
   * [How to pay with medooza wallet?](guides/medooza-wallet-platform-guide/how-to-pay-with-medooza-wallet.md)
 * [Buying MDZA tokens guides](guides/buying-mdza-tokens-guides/README.md)
   * [Where to buy MDZA tokens?](where-to-buy.md)
-  * [buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)
+  * [Buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)
 * [Medooza Faucet](guides/medooza-faucet.md)
 * [Medooza Stake program](guides/medooza-stake-program.md)
 * [MDZA on Xdai blockchain](guides/mdza-on-xdai-blockchain.md)
