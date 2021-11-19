@@ -1,14 +1,11 @@
 ---
 description: >-
-  Learn how to earn FREE Mdza tokens and stake them to earn even more MDZA
-  tokens with MDZA pool ans MDZA stake
+  Learn how to earn FREE Mdza tokens, and earn even more MDZA tokens with MDZA
+  pool & MDZA stake. Medooza faucet is a very good way to get familiar with the
+  MDZA platforms.
 ---
 
 # Medooza Faucet
-
-{% hint style="info" %}
-**Good to know:** Medooza faucet is one way to get familiar with the MDZA platforms.
-{% endhint %}
 
 ## Getting started
 
