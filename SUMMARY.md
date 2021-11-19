@@ -54,9 +54,3 @@
 ***
 
 * [HOW TO TRADE MEDOOZA (MDZA)](how-to-trade-medooza-mdza.md)
-
-## Group 1
-
-## Group 2
-
-## Group 3
