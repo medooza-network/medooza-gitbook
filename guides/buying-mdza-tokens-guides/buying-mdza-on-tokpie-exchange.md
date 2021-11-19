@@ -1,10 +1,12 @@
-# Buying MDZA on Tokpie exchange
+---
+description: Tokpie exchange is fast, secure and the fees are very low !
+---
 
-{% embed url="https://tokpie.zendesk.com/hc/en-us/articles/360001315958-1-Create-an-account" %}
+# Buying MDZA on Tokpie exchange
 
 Creating a Tokpie account is the first step towards accessing the services that Tokpie offers.&#x20;
 
-**1.** Make sure you are visiting the official Tokpie site on [**https://tokpie.com/regis/**](https://tokpie.com/regis/)
+**1.** Go to the official Tokpie site on [**https://tokpie.com/regis/**](https://tokpie.com/regis/)
 
 ![tokpie\_create\_account.png](https://tokpie.zendesk.com/hc/article\_attachments/360002444758/tokpie\_create\_account.png)
 
