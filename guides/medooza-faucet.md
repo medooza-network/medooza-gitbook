@@ -34,7 +34,7 @@ You can join the MDZA pool on Honeyswap and swap it to other tokens (Like ETH, X
 
 
 
-#### Medooza Faucet FAQ
+### Medooza Faucet FAQ
 
 **Question: I got an error notification**
 
@@ -48,6 +48,8 @@ We execute the transactions and broadcast them to the Ethereum Blockchain and in
 
 If you waited longer than few hours, you can get more assistance on the customer support button below.
 
+
+
 **Question: I got succsess notification but the MDZA doesn't show on my wallet**
 
 **Answer: **Don’t worry, you’ll see the tokens transferred to your MetaMask wallet (Sometimes the Blockchain network is overloaded and it takes few hours to get confirmation on the Blockchain network).
@@ -57,6 +59,8 @@ Sometimes the transactions are on Pending status – that means that they listed
 If you waited more than 48 hours and still you haven’t receive the tokens, [check the link here](https://etherscan.io/txsPending?a=0x0ecdd783dc7bf820614044b51862ed29714d2ba5\&m=hf) – you will probably see that the there are transactions on “**Pending Status**“. Click here to see the [Ethereum Pending Transaction Queue](https://etherscan.io/chart/pendingtx)
 
 You can click on the customer chat button below to get more information.
+
+
 
 **Question:** The system tells me that less than 24 hours passed
 
