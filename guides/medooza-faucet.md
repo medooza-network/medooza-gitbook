@@ -1,8 +1,14 @@
 ---
-description: Learn how to earn FREE Mdza tokens and stake them to earn even more MDZA f
+description: >-
+  Learn how to earn FREE Mdza tokens and stake them to earn even more MDZA
+  tokens with MDZA pool ans MDZA stake
 ---
 
 # Medooza Faucet
+
+{% hint style="info" %}
+**Good to know:** Medooza faucet is one way to get familiar with the MDZA platforms.
+{% endhint %}
 
 ## Getting started
 
@@ -17,18 +23,14 @@ Earning daily MDZA tokens for free in four simple steps:
 
 #### After few minutes you'll see the tokens in your wallet!
 
-
-
 ## What can I do now with the tokens i got?
 
 You can join the MDZA pool on Honeyswap and swap it to other tokens (Like ETH, Xdai etc.)
 
-[click for the guide here](medooza-stake-program.md)
+[Click for the guide here](medooza-stake-program.md)
 
-When join the MDZA pool you'll earn from any transaction created by the pool members and you entitled to stake your MDZA token  and earn up to 36.55%
+**When join the MDZA pool you'll earn from any transaction created by the pool members and you entitled to stake your MDZA token  and earn up to 36.55% APY**
 
-&#x20;
+[Click for the guide here](medooza-stake-program.md)
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+&#x20;In the future you'll be able to use the MDZA tokens you earned on the Medooza social platform in various ways :) Stay tuned!
