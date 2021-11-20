@@ -24,12 +24,13 @@
 * [Medooza affiliate guide](guides/medooza-affiliate-guide.md)
 * [Medooza Social platform](guides/medooza-social-platform.md)
 
-## Fundamentals
+## About us
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Youtube Chanel](about-us/youtube-chanel.md)
+* [Projects](about-us/projects.md)
+* [Members](about-us/members.md)
+* [Task Lists](about-us/task-lists.md)
+* [Tasks](about-us/tasks.md)
 
 ## Use Cases
 
@@ -39,18 +40,8 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-* [MEDIA](use-cases/media.md)
-* [Youtube Chanel](use-cases/youtube-chanel.md)
 
 ***
 
 * [FOR DEVELOPERS](for-developers/README.md)
   * [Medooza Wallet for crypto projects.](for-developers/medooza-wallet-for-crypto-projects..md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
-
-***
-
-* [HOW TO TRADE MEDOOZA (MDZA)](how-to-trade-medooza-mdza.md)
