@@ -6,6 +6,8 @@ description: Learn about the MDZA token usecases
 
 ## The MDZA token is the first (and only) token that empower and connect both social and blockchain worlds.
 
+{% embed url="https://www.youtube.com/watch?v=j4TRCQ6LHjo" %}
+
 #### How it works?
 
 **Advertisers & Publishers:**
