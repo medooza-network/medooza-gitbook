@@ -1,8 +1,12 @@
+---
+description: Get to know the Medooza team
+---
+
 # Members
 
-Medooza Group Managment
 
-We are a small group that 8 members are now involved in the project and we are hiring more marketing specialist, blockchain engineers and growing our development and marketing team.
+
+We are a small group of 8 members building the Medooza project.
 
 [![](https://medooza.io/wp-content/uploads/2018/06/ofer-sh-600x600.png)](https://medooza.io/Medooza%20team/ofer-shtrauchler/)
 
@@ -38,15 +42,10 @@ Blockchain developer
 
 [**Jing Wei**](https://medooza.io/Medooza%20team/jingwei/)
 
-Marketing Team
+Blockchain developer
 
 [![Founder/CEO daryltech.com](https://medooza.io/wp-content/uploads/2019/05/Ankit-Singh-Chauhan-600x600.jpg)](https://medooza.io/Medooza%20team/ankit-singh-chauhan-1/)
 
 [**Ankit Singh Chauhan**](https://medooza.io/Medooza%20team/ankit-singh-chauhan-1/)
 
 APP Developer\
-
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
