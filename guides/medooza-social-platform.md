@@ -4,7 +4,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=ky90MlIqHH4" %}
 
-## [Download the Medooza Social App](https://play.google.com/store/apps/details?id=com.medooza.social\_app)
+## - [Download the Medooza Social App](https://play.google.com/store/apps/details?id=com.medooza.social\_app) -
 
 ### How to withdraw your MDZA earnings?
 
