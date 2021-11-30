@@ -17,12 +17,12 @@
   * [Where to buy MDZA tokens?](where-to-buy.md)
   * [Buing MDZA with CoinPayments](guides/buying-mdza-tokens-guides/buing-mdza-with-coinpayments.md)
   * [Buying MDZA on Tokpie exchange](guides/buying-mdza-tokens-guides/buying-mdza-on-tokpie-exchange.md)
+* [Medooza Social platform](guides/medooza-social-platform.md)
 * [Medooza Faucet](guides/medooza-faucet.md)
 * [MDZA pool on HoneySwap](guides/mdza-pool-on-honeyswap.md)
 * [Medooza Stake program](guides/medooza-stake-program.md)
 * [MDZA on Xdai blockchain](guides/mdza-on-xdai-blockchain.md)
 * [Medooza affiliate guide](guides/medooza-affiliate-guide.md)
-* [Medooza Social platform](guides/medooza-social-platform.md)
 
 ## About us
 
