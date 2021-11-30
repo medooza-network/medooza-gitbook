@@ -16,4 +16,4 @@ Contract: [0xc11533fa4e455ea2e7f54a86bbe4bef50fbc958c](https://bscscan.com/addre
 
 ## **Ropsten (testnet)**
 
-**Contract: **[0x4bb2c33e0093bfca1c3e22f9a0d97af42c8568cb](https://ropsten.etherscan.io/token/0x4bb2c33e0093bfca1c3e22f9a0d97af42c8568cb)
+**Contract:** [0x4bb2c33e0093bfca1c3e22f9a0d97af42c8568cb](https://ropsten.etherscan.io/token/0x4bb2c33e0093bfca1c3e22f9a0d97af42c8568cb)

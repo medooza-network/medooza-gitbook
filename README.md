@@ -31,15 +31,15 @@ The Medooza social platform will provide advanced tools, incentives and smart re
 * Engage with friends, favorite brands, idols and earn MDZA Tokens.\
   [**Click To Download From Google Play**](https://play.google.com/store/apps/details?id=com.medooza.social\_app)
 
-#### **The Medooza ecosystem includes several components and apps that intagrate with the **Non custodial** Medooza wallet.**
+#### **The Medooza ecosystem includes several components and apps that intagrate with the** Non custodial **Medooza wallet.**
 
 ## Until now, Medooza project is self funded project and we will appreciate any help and inspiration from the Blockchain community
 
 * **If you want to join the team, Click here**
-* **If you want to support the project and buy some MDZA, **[**Click here**](guides/buying-mdza-tokens-guides/)****
-* **If you want to earn MDZA tokens, you can do it by joing the Medooza affiliate program. **[**Click here**](guides/medooza-affiliate-guide.md)****
+* **If you want to support the project and buy some MDZA,** [**Click here**](guides/buying-mdza-tokens-guides/)****
+* **If you want to earn MDZA tokens, you can do it by joing the Medooza affiliate program.** [**Click here**](guides/medooza-affiliate-guide.md)****
 
-#### ** or support the project, the best way is to buy MDZA tokens, stake them** **Medooza social & reward Platfor**
+#### &#x20;**or support the project, the best way is to buy MDZA tokens, stake them** **Medooza social & reward Platfor**
 
 ### Guides: Jump right in
 

@@ -14,7 +14,7 @@ As you already know, MEDOOZA crypto wallet is a mobile/web Universal crypto wall
 
 **Medooza Wallet Platform is part of the Medooza First Symbiotic Blockchain Ecosystem powered by MDZA token.**
 
-Watch all the video guides on our** **[**YouTube Channel**](https://www.youtube.com/channel/UCCeAgc7FdqzDj0ihAKheKUg)
+Watch all the video guides on our **** [**YouTube Channel**](https://www.youtube.com/channel/UCCeAgc7FdqzDj0ihAKheKUg)
 
 The Medooza wallet is **BETTER**, **FASTER**, **AND MORE SECURE** then any other wallet in the market. The Medooza team created it using more then 18 years of experience in the online world and cyber security.
 

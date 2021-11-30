@@ -52,7 +52,7 @@ If you waited longer than few hours, you can get more assistance on the customer
 
 **Question: I got succsess notification but the MDZA doesn't show on my wallet**
 
-**Answer: **Don’t worry, you’ll see the tokens transferred to your MetaMask wallet (Sometimes the Blockchain network is overloaded and it takes few hours to get confirmation on the Blockchain network).
+**Answer:** Don’t worry, you’ll see the tokens transferred to your MetaMask wallet (Sometimes the Blockchain network is overloaded and it takes few hours to get confirmation on the Blockchain network).
 
 Sometimes the transactions are on Pending status – that means that they listed on the Blockchain and they will be execute as soon as the Blockchain network will be able to execute it.
 

@@ -11,7 +11,7 @@ Purchase MDZA tokens for ETH, USDT, or WBTC in three simple steps:
 1. [Fund](https://tokpie.zendesk.com/hc/en-us/articles/360001325617-4-Fund-your-account) your account with ETH, USDT, or [WBTC](https://tokpie.io/blog/what-is-wrapped-bitcoin-wbtc/). Note that you can [purchase ETH and USDT with a bank card](https://tokpie.io/swap/?crypto=ETH) in a few minutes.
 2. Open [MDZA/ETH](https://tokpie.com/view\_exchange/MDZA-ETH/), [MDZA/USDT](https://tokpie.com/view\_exchange/MDZA-usdt/), or [MDZA/WBTC](https://tokpie.com/view\_exchange/MDZA-wbtc/) order book, and place your trade order to **buy**.\
    Use this [instruction](https://tokpie.zendesk.com/hc/en-us/articles/360001325637-5-Buy-or-sell-cryptocurrencies-) if you don’t know how to place a trade order.
-3. [Withdraw MDZA](https://tokpie.io/blog/what-is-medooza-mdza-token/#How\_to\_withdraw\_MDZA\_tokens)_ _tokens to your personal Ethereum wallet or hold them on the account.
+3. [Withdraw MDZA](https://tokpie.io/blog/what-is-medooza-mdza-token/#How\_to\_withdraw\_MDZA\_tokens) __ tokens to your personal Ethereum wallet or hold them on the account.
 
 ### How to sell MDZA tokens?
 
@@ -34,13 +34,13 @@ Creating a Tokpie account is the first step towards accessing the services that 
 
 ![tokpie\_create\_account.png](https://tokpie.zendesk.com/hc/article\_attachments/360002444758/tokpie\_create\_account.png)
 
-**2. **Enter your email address.&#x20;
+**2.** Enter your email address.&#x20;
 
 ![tokpie\_create\_account\_enter\_email.png](https://tokpie.zendesk.com/hc/article\_attachments/360002354417/tokpie\_create\_account\_enter\_email.png)
 
 Once you have agreed to our [Terms of Use](https://tokpie.io/terms) and [Privacy Policy](https://tokpie.io/privacy), just click the "Register" button.
 
-**3. **You should receive an activation email containing a confirmation link
+**3.** You should receive an activation email containing a confirmation link
 
 If you do not receive an activation (confirmation) email please check the spam folder of your email and if you have not received the email please contact [support](https://t.me/tokpie).
 
@@ -147,7 +147,7 @@ After things look good you just need to press the large \[SUBMIT ORDER] button.
 
 If a **market price** is selected, the trade will happen instantly and your [balance](https://tokpie.com/dashboard/account\_balance/) will change. Funds can be withdrawn or used to trade again right away. You can view successfully executed (Matched!) trade orders on the "[My Orders](https://tokpie.com/dashboard/s/kuserrequests/)" tab.
 
-If a market price is not selected, trade order** **may not be executed (matched) right away but you can view its status in the "[My Orders](https://tokpie.com/dashboard/s/kuserrequests/)" tab and in the Order book. In the below example, the OMG/ETH price would have to fall for the buy order to be executed.
+If a market price is not selected, trade order **** may not be executed (matched) right away but you can view its status in the "[My Orders](https://tokpie.com/dashboard/s/kuserrequests/)" tab and in the Order book. In the below example, the OMG/ETH price would have to fall for the buy order to be executed.
 
 ![limit\_order.png](https://tokpie.zendesk.com/hc/article\_attachments/360002355277/limit\_order.png)
 
