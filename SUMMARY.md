@@ -33,10 +33,9 @@
 * [Task Lists](about-us/task-lists.md)
 * [Tasks](about-us/tasks.md)
 
-## Use Cases
+## More
 
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
+* [GitHub](more/github.md)
 
 ***
 
