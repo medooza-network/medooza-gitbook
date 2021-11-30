@@ -27,11 +27,9 @@
 ## About us
 
 * [Youtube Chanel](about-us/youtube-chanel.md)
-* [Projects](about-us/projects.md)
 * [Support](about-us/support.md)
 * [Members](about-us/members.md)
 * [Task Lists](about-us/task-lists.md)
-* [Tasks](about-us/tasks.md)
 
 ## More
 

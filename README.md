@@ -65,8 +65,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="about-us/projects.md" %}
-[projects.md](about-us/projects.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="about-us/members.md" %}
@@ -77,8 +77,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [task-lists.md](about-us/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="about-us/tasks.md" %}
-[tasks.md](about-us/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
