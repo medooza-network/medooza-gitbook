@@ -11,3 +11,5 @@
 ![](../.gitbook/assets/medooza-ecosystem.jpg)
 
 {% embed url="https://www.youtube.com/watch?v=ky90MlIqHH4" %}
+
+{% embed url="https://www.youtube.com/watch?v=j4TRCQ6LHjo" %}
