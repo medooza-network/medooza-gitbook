@@ -9,3 +9,5 @@
 * ****[**Medooza MDZA stake**](https://stake.medooza.network)****
 
 ![](../.gitbook/assets/medooza-ecosystem.jpg)
+
+{% embed url="https://www.youtube.com/watch?v=ky90MlIqHH4" %}
