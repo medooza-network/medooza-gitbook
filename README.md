@@ -15,7 +15,7 @@ coverY: 0
 ### “The Medooza Project Enable The Blockchain Mass adoption possible”.
 {% endhint %}
 
-**On the Medooza Social platform users will earn MDZA tokens for engagement on the network, while advertisers have the abbility to allocate their advertising budget in a smarter, afficient way that ensure reaching the advertising goals!**
+**On the Medooza Social platform users will earn MDZA tokens for engagement on the network, while advertisers have the abbility to allocate their advertising budget in a smarter, afficient way that ensure reaching the advertising goals.**
 
 {% embed url="https://www.youtube.com/watch?v=ky90MlIqHH4" %}
 
